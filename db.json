@@ -1,0 +1,32 @@
+{
+  "productsList": [
+    {
+      "productName": "camila",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 12,
+      "comment": "asad",
+      "date": "2022-10-05T03:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Iphone13",
+      "category": "Eletronics",
+      "freshness": "Second hand",
+      "price": 1000,
+      "comment": "Used",
+      "date": "2022-10-08T03:00:00.000Z",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
